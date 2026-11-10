@@ -18,6 +18,7 @@
 ---
 
 ## 🎓 Formação
+<div align="center">
 
 | # | Curso / Especialização | Instituição |
 |:---:|:---|:---|
@@ -28,7 +29,7 @@
 | **05** | **Administração de Servidores Linux** | 1º CTA · Exército Brasileiro |
 | **06** | **Técnico em Eletrônica** | CETEMP |
 
----
+</div>
 
 ## 🛠️ Ferramentas para tirar ideias do papel
 
